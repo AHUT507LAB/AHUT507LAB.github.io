@@ -46,5 +46,6 @@ Chinese, English
 2. Personal‐specific gait recognition based on latent orthogonal feature space. [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ccs2.12007) [Code](https://github.com/ZQFORWARD/Personal_specific_gait_recognition)
 3. Cough Recognition Based on Mel-Spectrogram and Convolutional Neural Network. [Paper](https://www.frontiersin.org/articles/10.3389/frobt.2021.580080/full)
 4. A Survey of the Development of Wearable Devices. [Paper](https://ieeexplore.ieee.org/document/9195351)
-5. A Novel Pose Estimation Method of Object in Robotic Manipulation Using Vision-Based Tactile Sensor. [Paper](https://link.springer.com/chapter/10.1007%2F978-981-16-2336-3_24) 
+5. A Novel Pose Estimation Method of Object in Robotic Manipulation Using Vision-Based Tactile Sensor. [Paper](https://link.springer.com/chapter/10.1007%2F978-981-16-2336-3_24)
+6. "Filter Bank Convolutional Neural Network for Short Time-Window Steady-State Visual Evoked Potential Classification" (DOI: 10.1109/TNSRE.2021.3132162). [Code](https://github.com/DingWenl/FB-tCNN)
 
