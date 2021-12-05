@@ -33,7 +33,7 @@ Our current work focuses on Robotics, AI, Deep Learning and Point Cloud.
 ### Ding Zhang, Studnet
 
 ## Research Interest
-Robotics, Point Cloud, Artificial Intelligence, Neural Network, Deep Learning
+Robotics, Point Cloud, Artificial Intelligence, Neural Network, Deep Learning, BCI
 
 ## Programing Language
 Python, C++, MATLAB
