@@ -12,7 +12,7 @@ Our current work focuses on Robotics, AI, Deep Learning and Point Cloud.
 ### Quan Zhou, Student
 [Personal HomePage](https://zqforward.github.io/)
 
-### Wenlong Ding, Student
+### [Wenlong Ding](https://github.com/DingWenl/DingWenl.github.io), Student
 
 ### Chengyin Wang, Student
 
