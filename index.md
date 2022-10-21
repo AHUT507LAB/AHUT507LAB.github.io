@@ -50,3 +50,6 @@ Chinese, English
 5. A Novel Pose Estimation Method of Object in Robotic Manipulation Using Vision-Based Tactile Sensor. [Paper](https://link.springer.com/chapter/10.1007%2F978-981-16-2336-3_24)
 6. "Filter Bank Convolutional Neural Network for Short Time-Window Steady-State Visual Evoked Potential Classification" (DOI: 10.1109/TNSRE.2021.3132162). [Code](https://github.com/DingWenl/FB-tCNN)
 
+## Datasets
+1. Desktop scene text detection dataset. [Baidu Netdisk](https://pan.baidu.com/s/1FjSB43GGQuSt8vUcmYISkg?pwd=lvqq) [GoogleDrive](https://drive.google.com/drive/folders/19yZ9CutST5FBbhmMk3lXG_7bLvh1XXR1?usp=sharing)
+2. Desktop scene text recognition dataset. [Baidu Netdisk](https://pan.baidu.com/s/1lzHfaZRCcxX1tLYjGr2P_Q?pwd=lvqq) [GoogleDrive](https://drive.google.com/drive/folders/1CCUa22kobnC8Le4p4sjgqbZaXL31Lcpv?usp=sharing)
