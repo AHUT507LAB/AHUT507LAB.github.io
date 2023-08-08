@@ -30,7 +30,7 @@ Our current work focuses on Robotics, AI, Deep Learning and Point Cloud.
 ### Xingyu Ding, Student
 
 ### Yu Yang, Student
-[Personal HomePage](https://github.com/AHUT507LAB/YANGYU.github.io/)
+[Personal HomePage](https://YANGYU.github.io/)
 
 ### Ding Zhang, Studnet
 
