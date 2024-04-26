@@ -53,4 +53,4 @@ Chinese, English
 ## Datasets
 1. Desktop scene text detection dataset. [Baidu Netdisk](https://pan.baidu.com/s/1FjSB43GGQuSt8vUcmYISkg?pwd=lvqq) [GoogleDrive](https://drive.google.com/drive/folders/19yZ9CutST5FBbhmMk3lXG_7bLvh1XXR1?usp=sharing)
 2. Desktop scene text recognition dataset. [Baidu Netdisk](https://pan.baidu.com/s/1lzHfaZRCcxX1tLYjGr2P_Q?pwd=lvqq) [GoogleDrive](https://drive.google.com/drive/folders/1CCUa22kobnC8Le4p4sjgqbZaXL31Lcpv?usp=sharing)
-3. Self-built infrared dim target dataset.[Baidu Netdisk](https://pan.baidu.com/s/1lzHfaZRCcxX1tLYjGr2P_Q?pwd=lvqq) 
+3. Self-built infrared dim target dataset.[Baidu Netdisk](https://pan.baidu.com/s/1_nqSlOZ5WQyzB3CT7stJYw) code：nb22
