@@ -49,6 +49,7 @@ Chinese, English
 4. A Survey of the Development of Wearable Devices. [Paper](https://ieeexplore.ieee.org/document/9195351)
 5. A Novel Pose Estimation Method of Object in Robotic Manipulation Using Vision-Based Tactile Sensor. [Paper](https://link.springer.com/chapter/10.1007%2F978-981-16-2336-3_24)
 6. "Filter Bank Convolutional Neural Network for Short Time-Window Steady-State Visual Evoked Potential Classification" (DOI: 10.1109/TNSRE.2021.3132162). [Code](https://github.com/DingWenl/FB-tCNN)
+7. Infrared Small Target Tracking Based on OSTrack Model. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10304135)
 
 ## Datasets
 1. Desktop scene text detection dataset. [Baidu Netdisk](https://pan.baidu.com/s/1FjSB43GGQuSt8vUcmYISkg?pwd=lvqq) [GoogleDrive](https://drive.google.com/drive/folders/19yZ9CutST5FBbhmMk3lXG_7bLvh1XXR1?usp=sharing)
